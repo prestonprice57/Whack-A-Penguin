@@ -16,6 +16,22 @@
 		84C6AF001C1CA0DA000D8A54 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84C6AEFE1C1CA0DA000D8A54 /* LaunchScreen.storyboard */; };
 		84C6AF0B1C1CA0DA000D8A54 /* Whack_a_PenguinTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C6AF0A1C1CA0DA000D8A54 /* Whack_a_PenguinTests.swift */; };
 		84C6AF161C1CA0DA000D8A54 /* Whack_a_PenguinUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C6AF151C1CA0DA000D8A54 /* Whack_a_PenguinUITests.swift */; };
+		84C6AF241C1CA19B000D8A54 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C6AF231C1CA19B000D8A54 /* Helper.swift */; };
+		84C6AF341C1CA1A6000D8A54 /* gameOver.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C6AF261C1CA1A6000D8A54 /* gameOver.png */; };
+		84C6AF351C1CA1A6000D8A54 /* gameOver@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C6AF271C1CA1A6000D8A54 /* gameOver@2x.png */; };
+		84C6AF361C1CA1A6000D8A54 /* penguinEvil.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C6AF281C1CA1A6000D8A54 /* penguinEvil.png */; };
+		84C6AF371C1CA1A6000D8A54 /* penguinEvil@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C6AF291C1CA1A6000D8A54 /* penguinEvil@2x.png */; };
+		84C6AF381C1CA1A6000D8A54 /* penguinGood.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C6AF2A1C1CA1A6000D8A54 /* penguinGood.png */; };
+		84C6AF391C1CA1A6000D8A54 /* penguinGood@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C6AF2B1C1CA1A6000D8A54 /* penguinGood@2x.png */; };
+		84C6AF3A1C1CA1A6000D8A54 /* whack.caf in Resources */ = {isa = PBXBuildFile; fileRef = 84C6AF2C1C1CA1A6000D8A54 /* whack.caf */; };
+		84C6AF3B1C1CA1A6000D8A54 /* whackBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C6AF2D1C1CA1A6000D8A54 /* whackBackground.png */; };
+		84C6AF3C1C1CA1A6000D8A54 /* whackBackground@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C6AF2E1C1CA1A6000D8A54 /* whackBackground@2x.png */; };
+		84C6AF3D1C1CA1A6000D8A54 /* whackBad.caf in Resources */ = {isa = PBXBuildFile; fileRef = 84C6AF2F1C1CA1A6000D8A54 /* whackBad.caf */; };
+		84C6AF3E1C1CA1A6000D8A54 /* whackHole.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C6AF301C1CA1A6000D8A54 /* whackHole.png */; };
+		84C6AF3F1C1CA1A6000D8A54 /* whackHole@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C6AF311C1CA1A6000D8A54 /* whackHole@2x.png */; };
+		84C6AF401C1CA1A6000D8A54 /* whackMask.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C6AF321C1CA1A6000D8A54 /* whackMask.png */; };
+		84C6AF411C1CA1A6000D8A54 /* whackMask@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C6AF331C1CA1A6000D8A54 /* whackMask@2x.png */; };
+		84C6AF431C1CA29F000D8A54 /* WhackSlot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C6AF421C1CA29F000D8A54 /* WhackSlot.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +67,22 @@
 		84C6AF111C1CA0DA000D8A54 /* Whack-a-PenguinUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Whack-a-PenguinUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		84C6AF151C1CA0DA000D8A54 /* Whack_a_PenguinUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Whack_a_PenguinUITests.swift; sourceTree = "<group>"; };
 		84C6AF171C1CA0DA000D8A54 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84C6AF231C1CA19B000D8A54 /* Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		84C6AF261C1CA1A6000D8A54 /* gameOver.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gameOver.png; sourceTree = "<group>"; };
+		84C6AF271C1CA1A6000D8A54 /* gameOver@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gameOver@2x.png"; sourceTree = "<group>"; };
+		84C6AF281C1CA1A6000D8A54 /* penguinEvil.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = penguinEvil.png; sourceTree = "<group>"; };
+		84C6AF291C1CA1A6000D8A54 /* penguinEvil@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "penguinEvil@2x.png"; sourceTree = "<group>"; };
+		84C6AF2A1C1CA1A6000D8A54 /* penguinGood.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = penguinGood.png; sourceTree = "<group>"; };
+		84C6AF2B1C1CA1A6000D8A54 /* penguinGood@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "penguinGood@2x.png"; sourceTree = "<group>"; };
+		84C6AF2C1C1CA1A6000D8A54 /* whack.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = whack.caf; sourceTree = "<group>"; };
+		84C6AF2D1C1CA1A6000D8A54 /* whackBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whackBackground.png; sourceTree = "<group>"; };
+		84C6AF2E1C1CA1A6000D8A54 /* whackBackground@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "whackBackground@2x.png"; sourceTree = "<group>"; };
+		84C6AF2F1C1CA1A6000D8A54 /* whackBad.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = whackBad.caf; sourceTree = "<group>"; };
+		84C6AF301C1CA1A6000D8A54 /* whackHole.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whackHole.png; sourceTree = "<group>"; };
+		84C6AF311C1CA1A6000D8A54 /* whackHole@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "whackHole@2x.png"; sourceTree = "<group>"; };
+		84C6AF321C1CA1A6000D8A54 /* whackMask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whackMask.png; sourceTree = "<group>"; };
+		84C6AF331C1CA1A6000D8A54 /* whackMask@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "whackMask@2x.png"; sourceTree = "<group>"; };
+		84C6AF421C1CA29F000D8A54 /* WhackSlot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WhackSlot.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,9 +136,12 @@
 				84C6AEF11C1CA0DA000D8A54 /* AppDelegate.swift */,
 				84C6AEF31C1CA0DA000D8A54 /* GameScene.sks */,
 				84C6AEF51C1CA0DA000D8A54 /* GameScene.swift */,
+				84C6AF421C1CA29F000D8A54 /* WhackSlot.swift */,
 				84C6AEF71C1CA0DA000D8A54 /* GameViewController.swift */,
+				84C6AF231C1CA19B000D8A54 /* Helper.swift */,
 				84C6AEF91C1CA0DA000D8A54 /* Main.storyboard */,
 				84C6AEFC1C1CA0DA000D8A54 /* Assets.xcassets */,
+				84C6AF251C1CA1A6000D8A54 /* Content */,
 				84C6AEFE1C1CA0DA000D8A54 /* LaunchScreen.storyboard */,
 				84C6AF011C1CA0DA000D8A54 /* Info.plist */,
 			);
@@ -129,6 +164,27 @@
 				84C6AF171C1CA0DA000D8A54 /* Info.plist */,
 			);
 			path = "Whack-a-PenguinUITests";
+			sourceTree = "<group>";
+		};
+		84C6AF251C1CA1A6000D8A54 /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				84C6AF261C1CA1A6000D8A54 /* gameOver.png */,
+				84C6AF271C1CA1A6000D8A54 /* gameOver@2x.png */,
+				84C6AF281C1CA1A6000D8A54 /* penguinEvil.png */,
+				84C6AF291C1CA1A6000D8A54 /* penguinEvil@2x.png */,
+				84C6AF2A1C1CA1A6000D8A54 /* penguinGood.png */,
+				84C6AF2B1C1CA1A6000D8A54 /* penguinGood@2x.png */,
+				84C6AF2C1C1CA1A6000D8A54 /* whack.caf */,
+				84C6AF2D1C1CA1A6000D8A54 /* whackBackground.png */,
+				84C6AF2E1C1CA1A6000D8A54 /* whackBackground@2x.png */,
+				84C6AF2F1C1CA1A6000D8A54 /* whackBad.caf */,
+				84C6AF301C1CA1A6000D8A54 /* whackHole.png */,
+				84C6AF311C1CA1A6000D8A54 /* whackHole@2x.png */,
+				84C6AF321C1CA1A6000D8A54 /* whackMask.png */,
+				84C6AF331C1CA1A6000D8A54 /* whackMask@2x.png */,
+			);
+			path = Content;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,10 +291,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84C6AF341C1CA1A6000D8A54 /* gameOver.png in Resources */,
 				84C6AEF41C1CA0DA000D8A54 /* GameScene.sks in Resources */,
+				84C6AF351C1CA1A6000D8A54 /* gameOver@2x.png in Resources */,
+				84C6AF401C1CA1A6000D8A54 /* whackMask.png in Resources */,
+				84C6AF3F1C1CA1A6000D8A54 /* whackHole@2x.png in Resources */,
 				84C6AF001C1CA0DA000D8A54 /* LaunchScreen.storyboard in Resources */,
+				84C6AF3E1C1CA1A6000D8A54 /* whackHole.png in Resources */,
+				84C6AF3C1C1CA1A6000D8A54 /* whackBackground@2x.png in Resources */,
+				84C6AF3B1C1CA1A6000D8A54 /* whackBackground.png in Resources */,
 				84C6AEFD1C1CA0DA000D8A54 /* Assets.xcassets in Resources */,
+				84C6AF371C1CA1A6000D8A54 /* penguinEvil@2x.png in Resources */,
+				84C6AF361C1CA1A6000D8A54 /* penguinEvil.png in Resources */,
 				84C6AEFB1C1CA0DA000D8A54 /* Main.storyboard in Resources */,
+				84C6AF411C1CA1A6000D8A54 /* whackMask@2x.png in Resources */,
+				84C6AF3A1C1CA1A6000D8A54 /* whack.caf in Resources */,
+				84C6AF391C1CA1A6000D8A54 /* penguinGood@2x.png in Resources */,
+				84C6AF381C1CA1A6000D8A54 /* penguinGood.png in Resources */,
+				84C6AF3D1C1CA1A6000D8A54 /* whackBad.caf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,8 +334,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				84C6AEF61C1CA0DA000D8A54 /* GameScene.swift in Sources */,
+				84C6AF431C1CA29F000D8A54 /* WhackSlot.swift in Sources */,
 				84C6AEF81C1CA0DA000D8A54 /* GameViewController.swift in Sources */,
 				84C6AEF21C1CA0DA000D8A54 /* AppDelegate.swift in Sources */,
+				84C6AF241C1CA19B000D8A54 /* Helper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
